@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Ray Johnson&#39;s Website</title>
-    <link>https://rayjohnson.github.io/post/</link>
-    <description>Recent content in Posts on Ray Johnson&#39;s Website</description>
+    <title>Subcategory on Ray Johnson&#39;s Website</title>
+    <link>https://rayjohnson.github.io/categories/subcategory/</link>
+    <description>Recent content in Subcategory on Ray Johnson&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rayjohnson.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rayjohnson.github.io/categories/subcategory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>https://rayjohnson.github.io/2017/10/apple-tv-4k/</guid>
       <description>I&amp;rsquo;ve had an Apple TV since the first version. Apple makes simple products and for when I&amp;rsquo;m kicking my feet up and relaxing with the TV the one thing I want is for it to be simple. I remember getting my first Tivo and how it changed my life forever! Since then I&amp;rsquo;ve tried many different products - but I knew apple would make it simple. They did! I still play with things like Kodi on occasion - but nothing beats the Apple laid back experience.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://rayjohnson.github.io/2017/09/hello-world/</link>
-      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rayjohnson.github.io/2017/09/hello-world/</guid>
-      <description>Welcome to my blog. I built this with hugo and a bunch of other services. I&amp;rsquo;ll write more about that later. For now let&amp;rsquo;s just leave it at Hello!
-Ray</description>
     </item>
     
   </channel>

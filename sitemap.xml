@@ -8,8 +8,19 @@
   </url>
   
   <url>
+    <loc>https://rayjohnson.github.io/2017/10/apple-tv-4k/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rayjohnson.github.io/2017/09/hello-world/</loc>
     <lastmod>2017-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rayjohnson.github.io/tags/apple/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -23,8 +34,14 @@
   </url>
   
   <url>
+    <loc>https://rayjohnson.github.io/categories/category/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://rayjohnson.github.io/post/</loc>
-    <lastmod>2017-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -35,7 +52,14 @@
   </url>
   
   <url>
+    <loc>https://rayjohnson.github.io/categories/subcategory/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://rayjohnson.github.io/tags/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

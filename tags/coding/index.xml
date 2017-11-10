@@ -1,25 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding on Ray Johnson&#39;s Website</title>
     <link>https://rayjohnson.github.io/tags/coding/</link>
     <description>Recent content in Coding on Ray Johnson&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>ray.johnson@gmail.com (Ray Johnson)</managingEditor>
+    <webMaster>ray.johnson@gmail.com (Ray Johnson)</webMaster>
     <lastBuildDate>Sat, 14 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rayjohnson.github.io/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rayjohnson.github.io/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
       <link>https://rayjohnson.github.io/2017/10/hugo/</link>
       <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
-      
+      <author>ray.johnson@gmail.com (Ray Johnson)</author>
       <guid>https://rayjohnson.github.io/2017/10/hugo/</guid>
       <description>&lt;p&gt;I built this new blog with &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;.  It is a fairly new tool under active development that is already powerful and shows lots of promise.  More importantly it is perfect for a developer to get started without a lot of blogging experience.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Hugo is a framework written in Golang that builds static web sites.  By a &amp;ldquo;static&amp;rdquo;
+site - I mean there is no database - just html, css and java script files.  A static
+site is easy to serve as pretty much all hosting and web servers out there can host
+basic HTML sites.&lt;/p&gt;
+
+&lt;p&gt;Now I&amp;rsquo;m not the best person to give a full review of Hugo.  I&amp;rsquo;m not much of a blogger and this is the first time I&amp;rsquo;ve used any tool like this.  There are many other reviews like that out there worth checking out - try this one &lt;a href=&#34;https://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Rather, what I can say as a newbie blogger is this - getting started with Hugo is really easy.   Just follow the quick start and you are good to go.  You do need to understand HTML and Git which any programmer would be able to do.  (If you have zero programming experience you may be better off with Wordpress of something along those lines.)&lt;/p&gt;
+
+&lt;p&gt;I am using &lt;a href=&#34;https://pages.github.com&#34;&gt;Github pages&lt;/a&gt; to host my site - which is 100% free.  So, of course, that is a really nice option as well.  All you need is a Github account (also free) and then you publish your site into a specially named git repository in your account.  It is that simple.&lt;/p&gt;
+
+&lt;p&gt;The hardest part about learning Hugo was picking a theme.  There are dozens of themes and they have a nice gallery to choose from.  Unfortunately, since they are all community created some are much better than others.  I accidentally chose one that had a lot of issues at first.  My biggest nit is the gallery of themes should have a scoring mechanism or something to get insight into the quality of the themes.&lt;/p&gt;
+
+&lt;p&gt;Most of the themes use third party services to flesh out your site.  Again, if you have been blogging for a while you may know about these services - but if you are a newbie like me there is a little learning curve on understanding these additional services.  But it is worth it - they are powerful and provide many nice features.  Here are a few of them:&lt;/p&gt;
+
+&lt;h4 id=&#34;google-analytics&#34;&gt;Google Analytics&lt;/h4&gt;
+
+&lt;p&gt;Ok - this one you might have guessed existed.  Most of the themes in Hugo have support for Google Analytics (GA).  You can get your free Google Analytics account &lt;a href=&#34;https://www.google.com/analytics/&#34;&gt;here&lt;/a&gt;.  You need to fill out information about your web site and get a Tracking ID.  Most themes have a place for you to specify your GA tracking id in your config.toml file and just like that you have very robust web site tracking!&lt;/p&gt;
+
+&lt;h4 id=&#34;disqus&#34;&gt;Disqus&lt;/h4&gt;
+
+&lt;p&gt;Most any decent blog has a comments section where users can post comments of some sort.  However, this is a static site with no database - how are we going to store the comments?
+This is where &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus&lt;/a&gt; comes in.&lt;/p&gt;
+
+&lt;p&gt;Like GA most of the Hugo themes support Disqus.  You need to get a (free) account and fill
+out information about your website.  You will get a &amp;ldquo;Shortname&amp;rdquo; that you can then enter
+into your config.toml file.&lt;/p&gt;
+
+&lt;p&gt;Disqus gives lots of tools to help moderate your site.  Frankly, it is much more powerful
+than any comment system you would want to develop for your self!&lt;/p&gt;
+
+&lt;h4 id=&#34;cloudinary&#34;&gt;Cloudinary&lt;/h4&gt;
+
+&lt;p&gt;It is often desirable to use a Content Delivery Network (CDN) to deliver static assets like images.  The CDN caches images across the Internet and makes you website seem much faster.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://cloudinary.com&#34;&gt;Cloudinary&lt;/a&gt; is an interesting option for this.  For one it is free at a generous initial tier.  But the really cool thing is it can do some simple image manipulation for you that can be really useful.&lt;/p&gt;
+
+&lt;p&gt;For example, the thumbnail images for all my blog posts need to be &lt;strong&gt;140 x 140&lt;/strong&gt;.  For each image
+I need I might have to open it in an image editor and scale the image I have to fit nicely
+into that format.  With Cloudinary, however, I can just add some options to the URL path
+that does this scaling on the fly.&lt;/p&gt;
+
+&lt;p&gt;So I may have a URL for the Hugo logo like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;http://res.cloudinary.com/rayjohnson/image/upload/v1509992599/hugo-logo_bbz8x0.png
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I can scale the image to fit by just doing this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;http://res.cloudinary.com/rayjohnson/image/upload/c_lpad,h_140,w_140/v1509992599/hugo-logo_bbz8x0.png
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The part of the URL that says &lt;code&gt;c_lpad,h_140,w_140/&lt;/code&gt; transforms the image for you.  In this case I needed to scale the image down in the x axis.  However, I needed to pad the image in the y axis
+to make it fit 140 x 140.  There are many other transformations you can do and it is way easier then doing this manually in a photo editor!&lt;/p&gt;
+
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m still learning the world of tools and services useful for bloggers.  It is a big world
+and there are a lot of options - particularity if you want to be a professional blogger.
+All I can say as a developer who wants a simple but good looking blog that is free and
+easy to support - Hugo is a really great option that had me up and going in no time!&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,24 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apple on Ray Johnson&#39;s Website</title>
     <link>https://rayjohnson.github.io/tags/apple/</link>
     <description>Recent content in Apple on Ray Johnson&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>ray.johnson@gmail.com (Ray Johnson)</managingEditor>
+    <webMaster>ray.johnson@gmail.com (Ray Johnson)</webMaster>
     <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rayjohnson.github.io/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rayjohnson.github.io/tags/apple/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Apple TV 4k</title>
       <link>https://rayjohnson.github.io/2017/10/apple-tv-4k/</link>
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
-      
+      <author>ray.johnson@gmail.com (Ray Johnson)</author>
       <guid>https://rayjohnson.github.io/2017/10/apple-tv-4k/</guid>
       <description>&lt;p&gt;Well Apple has blessed us with a new Apple TV.  But I&amp;rsquo;m still very much wanting&amp;hellip;
-&lt;/p&gt;</description>
+&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve had an Apple TV since the first version.  Apple makes simple products and for when I&amp;rsquo;m kicking my feet up and relaxing with the TV the one thing I want is for it to be simple.  I remember getting my first Tivo and how it changed my life forever!  Since then I&amp;rsquo;ve tried many different products - but I knew apple would make it simple.  They did!  I still play with things like Kodi on occasion - but nothing beats the Apple laid back experience.&lt;/p&gt;
+
+&lt;p&gt;However, I really wish they would take it more seriously.  It took them forever to add the App Store for the Apple TV.  We knew they would - it was obvious.  Everyone also knew it would reshape the TV watching world.  When they finally released the AppStore it was just as great as we all expected.&lt;/p&gt;
+
+&lt;p&gt;Years go by and now Apple is blessing us with a new version of the Apple TV.  The hardware looks the same but is much more powerful.  Yeah!  However, the only real feature being added is support for 4K videos.  Something we all knew they would eventually add.  Something other streaming boxes had for a while now.  I don&amp;rsquo;t even have a 4K TV yet so this is the lamest upgrade yet in my opinion.&lt;/p&gt;
+
+&lt;h3 id=&#34;it-could-be-better&#34;&gt;It could be better&lt;/h3&gt;
+
+&lt;p&gt;The thing is that the AppleTV could be better.  Hell, I think some of the features are obvious just as earlier features were.  They just need to be motivated enough to add them.&lt;/p&gt;
+
+&lt;p&gt;For fun here is my wish list of things I wish the AppleTV could do:&lt;/p&gt;
+
+&lt;h4 id=&#34;find-my-remote&#34;&gt;Find my remote&lt;/h4&gt;
+
+&lt;p&gt;I mean come on - anyone has had the experience of needing to find the damn remote.  If you have kids you probably do it once or twice a day.  They have &amp;ldquo;Find my iPhone&amp;rdquo; - how the hell hard can it be to have &amp;ldquo;Find my remote&amp;rdquo;?  A tiny little tweeter in the remote would not cost too much to add and it would not have to change the form factor.  Seems obvious to me&amp;hellip;&lt;/p&gt;
+
+&lt;h4 id=&#34;touch-id-on-the-remote&#34;&gt;Touch ID on the remote&lt;/h4&gt;
+
+&lt;p&gt;Entering your password when you buy something on the used to be a nightmare.  So painful to enter text with that remote.  They did make it easier with the ability to enter password via the phone.  However, that only improved things to cumbersome and awkward.&lt;/p&gt;
+
+&lt;p&gt;It would be nice if the remote had a touch id sensor.  Yes - you need to do a bit more set-up upfront but it would make approval for buying things much better.  This would cost a bit more and probably have some technical challenges.  However, I think it would be very useful if used
+in conjunction with my next idea.&lt;/p&gt;
+
+&lt;h4 id=&#34;apple-tv-should-have-a-notion-of-user-profiles&#34;&gt;Apple TV should have a notion of User Profiles&lt;/h4&gt;
+
+&lt;p&gt;Apps like Netflix and Hulu already have this.  They know that different people in a family
+want to watch different things.  A user profile it the obvious thing to add such that each
+user can customize the experience for their needs.&lt;/p&gt;
+
+&lt;p&gt;If this was combined with the touch id idea it would be very useful.  I often have the
+experience where I turn on the TV and it is already open in Netflix ready for me to watch&amp;hellip;
+&amp;ldquo;My little pony&amp;rdquo;.  Ug.  My kid was watching - OK, let me switch profiles in Netflix&amp;hellip;  Worse
+my daughter sometimes turns on the TV and hits play and presented with &amp;ldquo;The Walking Dead&amp;rdquo;.  Yikes!&lt;/p&gt;
+
+&lt;p&gt;A good system wide user profile system would be something Netflix and Hulu could use and make
+it much easier and uniformed for other providers as well.  Being able to protect my kids
+from both content they should not see and frankly the complexity of having to navigate past
+apps and other things only dad uses.&lt;/p&gt;
+
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;These were the obvious ideas.  Hell I&amp;rsquo;m not even sure anyone would think they are controversial.  Unlike making the console powerful enough to have cool games which would be nice and seems like a missed opportunity by Apple.  Or all the content ideas folks have - hell knows that must be such an ongoing pain in the but to negotiate with all the studios.  No, there is still room for improvement with the basics.&lt;/p&gt;
+
+&lt;p&gt;Will the lack of these features make me switch streaming boxes?  Well, no, not anytime soon.  I try them every now and then.  I see things I like - but much more that usually annoys me.  So for the foreseeable future I&amp;rsquo;ll stick to the AppleTV and grumble every now and again.  As far as the new 4K version?  I&amp;rsquo;ll get one when I get a 4K TV - cause that is the only reason to upgrade.&lt;/p&gt;</description>
     </item>
     
   </channel>

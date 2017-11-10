@@ -1,45 +1,183 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ray Johnson&#39;s Website</title>
     <link>https://rayjohnson.github.io/post/</link>
     <description>Recent content in Posts on Ray Johnson&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <managingEditor>ray.johnson@gmail.com (Ray Johnson)</managingEditor>
+    <webMaster>ray.johnson@gmail.com (Ray Johnson)</webMaster>
+    <lastBuildDate>Tue, 07 Nov 2017 22:45:57 -0800</lastBuildDate>
     
-	<atom:link href="https://rayjohnson.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rayjohnson.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Home Automation That Works</title>
+      <link>https://rayjohnson.github.io/2017/11/home-automation-that-works/</link>
+      <pubDate>Tue, 07 Nov 2017 22:45:57 -0800</pubDate>
+      <author>ray.johnson@gmail.com (Ray Johnson)</author>
+      <guid>https://rayjohnson.github.io/2017/11/home-automation-that-works/</guid>
+      <description>&lt;p&gt;Like many geeks I like to play around with home automation.  But the sad sad truth of it is that few solutions are very reliable or resilient.  They end up causing more pain than gain.  However,
+if you ignore the &amp;ldquo;smart&amp;rdquo; stuff there are some dumb things you can do that really work.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;The thing I hate about technology at home is when it breaks.  I am tech support and home and when printers or smart home gadgets stop working I hear about it.  As a result I try to put in as little as possible and that which is adopted better be rock solid.&lt;/p&gt;
+
+&lt;p&gt;I know I&amp;rsquo;m not alone - I&amp;rsquo;ve had many friends show me some cool automation thing that had.  Like opening the garage door with their phone - only to have to call their wife to have them close the door manually because something went wrong.&lt;/p&gt;
+
+&lt;p&gt;The problem with many of the new and very cool home automation systems is they usually require wifi and/or cloud services.  If your wifi goes down your smart home is as dumb as a rock.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe style=&#34;width:120px;height:240px;&#34; align=&#34;right&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=rayjohnson-20&amp;marketplace=amazon&amp;region=US&amp;placement=B00U5PAQT0&amp;asins=B00U5PAQT0&amp;linkId=0b9e2302feff8a4687e47e650b513d1c&amp;show_border=true&amp;link_opens_in_new_window=true&#34;&gt;&lt;/iframe&gt;It is often said &amp;ldquo;the best technology disappears&amp;rdquo; - meaning it because something you never have to think about.  Well one of the best examples of that in home automation has to be the siomple light sensing switch.  Motion sensor lights that turn on when you open a closet.  Or dusk-till-dawn lights that keep your garden or driveway light up at night but not during the day.&lt;/p&gt;
+
+&lt;p&gt;Also motion sensing lights have got more interesting as LED lights have improved.  Take for example the &lt;a href=&#34;http://amzn.to/2hUZUcJ&#34;&gt;Ashialight LED Motion Sensor Light Bulb&lt;/a&gt;.  It has a motion sensor built right into what looks like an ordinary light bulb!  This is perfect for a closet or utility room.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe style=&#34;width:120px;height:240px;&#34; align=&#34;right&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=rayjohnson-20&amp;marketplace=amazon&amp;region=US&amp;placement=B0000CGKLR&amp;asins=B0000CGKLR&amp;linkId=958991b3068c69da46c8c232651945ab&amp;show_border=true&amp;link_opens_in_new_window=true&#34;&gt;&lt;/iframe&gt;
+There are three types of devices in this category.  1) Motion sensing is probably the most common, 2) Light sensing with dusk-to-dawn type lights, and 3) Sound sensing - which means the light comes on for a while when it hears sound.  I&amp;rsquo;d put the famous product of the 80&amp;rsquo;s &lt;a href=&#34;http://amzn.to/2hTXknu&#34;&gt;The Clapper&lt;/a&gt; into this category.  Yes - they still sell &lt;a href=&#34;http://amzn.to/2hTXknu&#34;&gt;The Clapper&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;The thing about these types of the product is they work.  They are resilient and do not go down with your Wifi, ISP.  They do not have an on going service charge.  They are simple.  Frankly, if you are going to start doing home automation I dare say this is the place to start.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Hugo</title>
       <link>https://rayjohnson.github.io/2017/10/hugo/</link>
       <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
-      
+      <author>ray.johnson@gmail.com (Ray Johnson)</author>
       <guid>https://rayjohnson.github.io/2017/10/hugo/</guid>
       <description>&lt;p&gt;I built this new blog with &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;.  It is a fairly new tool under active development that is already powerful and shows lots of promise.  More importantly it is perfect for a developer to get started without a lot of blogging experience.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Hugo is a framework written in Golang that builds static web sites.  By a &amp;ldquo;static&amp;rdquo;
+site - I mean there is no database - just html, css and java script files.  A static
+site is easy to serve as pretty much all hosting and web servers out there can host
+basic HTML sites.&lt;/p&gt;
+
+&lt;p&gt;Now I&amp;rsquo;m not the best person to give a full review of Hugo.  I&amp;rsquo;m not much of a blogger and this is the first time I&amp;rsquo;ve used any tool like this.  There are many other reviews like that out there worth checking out - try this one &lt;a href=&#34;https://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Rather, what I can say as a newbie blogger is this - getting started with Hugo is really easy.   Just follow the quick start and you are good to go.  You do need to understand HTML and Git which any programmer would be able to do.  (If you have zero programming experience you may be better off with Wordpress of something along those lines.)&lt;/p&gt;
+
+&lt;p&gt;I am using &lt;a href=&#34;https://pages.github.com&#34;&gt;Github pages&lt;/a&gt; to host my site - which is 100% free.  So, of course, that is a really nice option as well.  All you need is a Github account (also free) and then you publish your site into a specially named git repository in your account.  It is that simple.&lt;/p&gt;
+
+&lt;p&gt;The hardest part about learning Hugo was picking a theme.  There are dozens of themes and they have a nice gallery to choose from.  Unfortunately, since they are all community created some are much better than others.  I accidentally chose one that had a lot of issues at first.  My biggest nit is the gallery of themes should have a scoring mechanism or something to get insight into the quality of the themes.&lt;/p&gt;
+
+&lt;p&gt;Most of the themes use third party services to flesh out your site.  Again, if you have been blogging for a while you may know about these services - but if you are a newbie like me there is a little learning curve on understanding these additional services.  But it is worth it - they are powerful and provide many nice features.  Here are a few of them:&lt;/p&gt;
+
+&lt;h4 id=&#34;google-analytics&#34;&gt;Google Analytics&lt;/h4&gt;
+
+&lt;p&gt;Ok - this one you might have guessed existed.  Most of the themes in Hugo have support for Google Analytics (GA).  You can get your free Google Analytics account &lt;a href=&#34;https://www.google.com/analytics/&#34;&gt;here&lt;/a&gt;.  You need to fill out information about your web site and get a Tracking ID.  Most themes have a place for you to specify your GA tracking id in your config.toml file and just like that you have very robust web site tracking!&lt;/p&gt;
+
+&lt;h4 id=&#34;disqus&#34;&gt;Disqus&lt;/h4&gt;
+
+&lt;p&gt;Most any decent blog has a comments section where users can post comments of some sort.  However, this is a static site with no database - how are we going to store the comments?
+This is where &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus&lt;/a&gt; comes in.&lt;/p&gt;
+
+&lt;p&gt;Like GA most of the Hugo themes support Disqus.  You need to get a (free) account and fill
+out information about your website.  You will get a &amp;ldquo;Shortname&amp;rdquo; that you can then enter
+into your config.toml file.&lt;/p&gt;
+
+&lt;p&gt;Disqus gives lots of tools to help moderate your site.  Frankly, it is much more powerful
+than any comment system you would want to develop for your self!&lt;/p&gt;
+
+&lt;h4 id=&#34;cloudinary&#34;&gt;Cloudinary&lt;/h4&gt;
+
+&lt;p&gt;It is often desirable to use a Content Delivery Network (CDN) to deliver static assets like images.  The CDN caches images across the Internet and makes you website seem much faster.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://cloudinary.com&#34;&gt;Cloudinary&lt;/a&gt; is an interesting option for this.  For one it is free at a generous initial tier.  But the really cool thing is it can do some simple image manipulation for you that can be really useful.&lt;/p&gt;
+
+&lt;p&gt;For example, the thumbnail images for all my blog posts need to be &lt;strong&gt;140 x 140&lt;/strong&gt;.  For each image
+I need I might have to open it in an image editor and scale the image I have to fit nicely
+into that format.  With Cloudinary, however, I can just add some options to the URL path
+that does this scaling on the fly.&lt;/p&gt;
+
+&lt;p&gt;So I may have a URL for the Hugo logo like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;http://res.cloudinary.com/rayjohnson/image/upload/v1509992599/hugo-logo_bbz8x0.png
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I can scale the image to fit by just doing this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;http://res.cloudinary.com/rayjohnson/image/upload/c_lpad,h_140,w_140/v1509992599/hugo-logo_bbz8x0.png
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The part of the URL that says &lt;code&gt;c_lpad,h_140,w_140/&lt;/code&gt; transforms the image for you.  In this case I needed to scale the image down in the x axis.  However, I needed to pad the image in the y axis
+to make it fit 140 x 140.  There are many other transformations you can do and it is way easier then doing this manually in a photo editor!&lt;/p&gt;
+
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m still learning the world of tools and services useful for bloggers.  It is a big world
+and there are a lot of options - particularity if you want to be a professional blogger.
+All I can say as a developer who wants a simple but good looking blog that is free and
+easy to support - Hugo is a really great option that had me up and going in no time!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Apple TV 4k</title>
       <link>https://rayjohnson.github.io/2017/10/apple-tv-4k/</link>
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
-      
+      <author>ray.johnson@gmail.com (Ray Johnson)</author>
       <guid>https://rayjohnson.github.io/2017/10/apple-tv-4k/</guid>
       <description>&lt;p&gt;Well Apple has blessed us with a new Apple TV.  But I&amp;rsquo;m still very much wanting&amp;hellip;
-&lt;/p&gt;</description>
+&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve had an Apple TV since the first version.  Apple makes simple products and for when I&amp;rsquo;m kicking my feet up and relaxing with the TV the one thing I want is for it to be simple.  I remember getting my first Tivo and how it changed my life forever!  Since then I&amp;rsquo;ve tried many different products - but I knew apple would make it simple.  They did!  I still play with things like Kodi on occasion - but nothing beats the Apple laid back experience.&lt;/p&gt;
+
+&lt;p&gt;However, I really wish they would take it more seriously.  It took them forever to add the App Store for the Apple TV.  We knew they would - it was obvious.  Everyone also knew it would reshape the TV watching world.  When they finally released the AppStore it was just as great as we all expected.&lt;/p&gt;
+
+&lt;p&gt;Years go by and now Apple is blessing us with a new version of the Apple TV.  The hardware looks the same but is much more powerful.  Yeah!  However, the only real feature being added is support for 4K videos.  Something we all knew they would eventually add.  Something other streaming boxes had for a while now.  I don&amp;rsquo;t even have a 4K TV yet so this is the lamest upgrade yet in my opinion.&lt;/p&gt;
+
+&lt;h3 id=&#34;it-could-be-better&#34;&gt;It could be better&lt;/h3&gt;
+
+&lt;p&gt;The thing is that the AppleTV could be better.  Hell, I think some of the features are obvious just as earlier features were.  They just need to be motivated enough to add them.&lt;/p&gt;
+
+&lt;p&gt;For fun here is my wish list of things I wish the AppleTV could do:&lt;/p&gt;
+
+&lt;h4 id=&#34;find-my-remote&#34;&gt;Find my remote&lt;/h4&gt;
+
+&lt;p&gt;I mean come on - anyone has had the experience of needing to find the damn remote.  If you have kids you probably do it once or twice a day.  They have &amp;ldquo;Find my iPhone&amp;rdquo; - how the hell hard can it be to have &amp;ldquo;Find my remote&amp;rdquo;?  A tiny little tweeter in the remote would not cost too much to add and it would not have to change the form factor.  Seems obvious to me&amp;hellip;&lt;/p&gt;
+
+&lt;h4 id=&#34;touch-id-on-the-remote&#34;&gt;Touch ID on the remote&lt;/h4&gt;
+
+&lt;p&gt;Entering your password when you buy something on the used to be a nightmare.  So painful to enter text with that remote.  They did make it easier with the ability to enter password via the phone.  However, that only improved things to cumbersome and awkward.&lt;/p&gt;
+
+&lt;p&gt;It would be nice if the remote had a touch id sensor.  Yes - you need to do a bit more set-up upfront but it would make approval for buying things much better.  This would cost a bit more and probably have some technical challenges.  However, I think it would be very useful if used
+in conjunction with my next idea.&lt;/p&gt;
+
+&lt;h4 id=&#34;apple-tv-should-have-a-notion-of-user-profiles&#34;&gt;Apple TV should have a notion of User Profiles&lt;/h4&gt;
+
+&lt;p&gt;Apps like Netflix and Hulu already have this.  They know that different people in a family
+want to watch different things.  A user profile it the obvious thing to add such that each
+user can customize the experience for their needs.&lt;/p&gt;
+
+&lt;p&gt;If this was combined with the touch id idea it would be very useful.  I often have the
+experience where I turn on the TV and it is already open in Netflix ready for me to watch&amp;hellip;
+&amp;ldquo;My little pony&amp;rdquo;.  Ug.  My kid was watching - OK, let me switch profiles in Netflix&amp;hellip;  Worse
+my daughter sometimes turns on the TV and hits play and presented with &amp;ldquo;The Walking Dead&amp;rdquo;.  Yikes!&lt;/p&gt;
+
+&lt;p&gt;A good system wide user profile system would be something Netflix and Hulu could use and make
+it much easier and uniformed for other providers as well.  Being able to protect my kids
+from both content they should not see and frankly the complexity of having to navigate past
+apps and other things only dad uses.&lt;/p&gt;
+
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;These were the obvious ideas.  Hell I&amp;rsquo;m not even sure anyone would think they are controversial.  Unlike making the console powerful enough to have cool games which would be nice and seems like a missed opportunity by Apple.  Or all the content ideas folks have - hell knows that must be such an ongoing pain in the but to negotiate with all the studios.  No, there is still room for improvement with the basics.&lt;/p&gt;
+
+&lt;p&gt;Will the lack of these features make me switch streaming boxes?  Well, no, not anytime soon.  I try them every now and then.  I see things I like - but much more that usually annoys me.  So for the foreseeable future I&amp;rsquo;ll stick to the AppleTV and grumble every now and again.  As far as the new 4K version?  I&amp;rsquo;ll get one when I get a 4K TV - cause that is the only reason to upgrade.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hello World</title>
       <link>https://rayjohnson.github.io/2017/09/hello-world/</link>
       <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
-      
+      <author>ray.johnson@gmail.com (Ray Johnson)</author>
       <guid>https://rayjohnson.github.io/2017/09/hello-world/</guid>
-      <description>Welcome to my blog. I built this with hugo and a bunch of other services. I&amp;rsquo;ll write more about that later. For now let&amp;rsquo;s just leave it at Hello!
-Ray</description>
+      <description>&lt;p&gt;Welcome to my blog.  I built this with hugo and a bunch of other services.  I&amp;rsquo;ll write more about that later.  For now let&amp;rsquo;s just leave it at Hello!&lt;/p&gt;
+
+&lt;p&gt;Ray&lt;/p&gt;
+</description>
     </item>
     
   </channel>

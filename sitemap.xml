@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rayjohnson.github.io/2017/11/qnap-and-docker/</loc>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rayjohnson.github.io/2017/11/home-automation-that-works/</loc>
     <lastmod>2017-11-07T22:45:57-08:00</lastmod>
   </url>
@@ -50,8 +55,8 @@
   </url>
   
   <url>
-    <loc>https://rayjohnson.github.io/categories/home-automation/</loc>
-    <lastmod>2017-11-07T22:45:57-08:00</lastmod>
+    <loc>https://rayjohnson.github.io/tags/docker/</loc>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -62,14 +67,26 @@
   </url>
   
   <url>
+    <loc>https://rayjohnson.github.io/categories/home-automation/</loc>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://rayjohnson.github.io/post/</loc>
-    <lastmod>2017-11-07T22:45:57-08:00</lastmod>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rayjohnson.github.io/tags/qnap/</loc>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rayjohnson.github.io/</loc>
-    <lastmod>2017-11-07T22:45:57-08:00</lastmod>
+    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
